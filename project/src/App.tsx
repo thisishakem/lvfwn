@@ -9,12 +9,19 @@ function App() {
   const noButtonRef = useRef<HTMLButtonElement>(null);
 
   const celebrationGifs = [
-    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY5YzBkZDM4ZjM1ZWY1ZDY0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpDmM2wSR4kai54Rrr/giphy.gif",
+    "https://media.giphy.com/media/tpVKvAabWt3G5csMkT/giphy.gif?cid=790b7611ipr7vvy2w49tsjou0q6vmw1ao0vobzj995e81suv&ep=v1_gifs_search&rid=giphy.gif&ct=g",
     "https://media.giphy.com/media/Z21HJj2kz9uBG/giphy.gif?cid=ecf05e47ffwnb0iafovli629z9js2ohnq124hqycp567yzm8&ep=v1_gifs_search&rid=giphy.gif&ct=g",
     "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXByN3Z2eTJ3NDl0c2pvdTBxNnZtdzFhbzB2b2J6ajk5NWU4MXN1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c76IJLufpNwSULPk77/giphy.gif",
     "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXByN3Z2eTJ3NDl0c2pvdTBxNnZtdzFhbzB2b2J6ajk5NWU4MXN1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4pTdcifPZLpDjL1e/giphy.gif",
     "https://media.giphy.com/media/9d3LQ6TdV2Flo8ODTU/giphy.gif?cid=790b7611ipr7vvy2w49tsjou0q6vmw1ao0vobzj995e81suv&ep=v1_gifs_search&rid=giphy.gif&ct=g",
-    "https://media.giphy.com/media/4N1wOi78ZGzSB6H7vK/giphy.gif?cid=790b7611ipr7vvy2w49tsjou0q6vmw1ao0vobzj995e81suv&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    "https://media.giphy.com/media/4N1wOi78ZGzSB6H7vK/giphy.gif?cid=790b7611ipr7vvy2w49tsjou0q6vmw1ao0vobzj995e81suv&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/3odxXG6oUNRVhsdcLK/giphy.gif?cid=790b7611ipr7vvy2w49tsjou0q6vmw1ao0vobzj995e81suv&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/Kg5Q7JSJiV0XgrJVRc/giphy.gif?cid=790b7611ipr7vvy2w49tsjou0q6vmw1ao0vobzj995e81suv&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/7vDoUoDZHoUQxMPkd7/giphy.gif?cid=ecf05e472o6aqs5b2gu2tax266zv7sxjmueb1d70u54m9ue9&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/RB46T9ysjzDEs/giphy.gif?cid=ecf05e472o6aqs5b2gu2tax266zv7sxjmueb1d70u54m9ue9&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/jIL3lq9Ah00tG/giphy.gif?cid=ecf05e47mi0fqptqo40h9g2ur95ue7ltmabukeknwotxbcm5&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/jYMiLeCw11vI0dprM9/giphy.gif?cid=ecf05e47mi0fqptqo40h9g2ur95ue7ltmabukeknwotxbcm5&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    "https://media.giphy.com/media/xUA7aWi4gtOdAaX9q8/giphy.gif?cid=ecf05e472plbeh6xvh9tb8oxt1c8qu8koqydpy5xoy9pfck7&ep=v1_gifs_search&rid=giphy.gif&ct=g"
     
   ];
 
