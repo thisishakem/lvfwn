@@ -72,7 +72,7 @@ function App() {
               
               <div className="relative w-full aspect-video max-w-md mb-6 md:mb-8 rounded-xl overflow-hidden shadow-xl">
                 <img
-                  src="https://www.google.com/imgres?q=%D8%9F&imgurl=https%3A%2F%2Fara.al3areen.com%2Fwp-content%2Fuploads%2F2019%2F07%2F%25D9%2585%25D8%25A7%25D9%2587%25D9%2588-%25D8%25A7%25D9%2584%25D8%25B7%25D8%25A7%25D8%25A6%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25B0%25D9%258A-%25D9%258A%25D8%25B1%25D9%2589-%25D8%25A8%25D8%25A3%25D8%25B0%25D9%2586%25D9%258A%25D9%2587-%25D8%259F.jpg&imgrefurl=https%3A%2F%2Fara.al3areen.com%2F%25D9%2585%25D8%25A7%25D9%2587%25D9%2588-%25D8%25A7%25D9%2584%25D8%25B7%25D8%25A7%25D8%25A6%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25B0%25D9%258A-%25D9%258A%25D8%25B1%25D9%2589-%25D8%25A8%25D8%25A3%25D8%25B0%25D9%2586%25D9%258A%25D9%2587-%25D8%259F%2F&docid=cj5-7kW9u9HzvM&tbnid=k65UApWJhmTVQM&vet=12ahUKEwiA6daG97GLAxU9UqQEHRwqGzcQM3oECEgQAA..i&w=550&h=335&hcb=2&ved=2ahUKEwiA6daG97GLAxU9UqQEHRwqGzcQM3oECEgQAA=w=600&auto=format&fit=crop&q=80"
+                  src=""
                   alt="Red roses"
                   className="w-full h-full object-cover"
                 />
