@@ -67,7 +67,7 @@ function App() {
             <>
               <Heart className="w-16 h-16 md:w-20 md:h-20 text-red-500 animate-pulse mb-4 md:mb-8" />
               <h1 className="text-3xl md:text-5xl font-bold text-gray-800 text-center mb-4 md:mb-6">
-                Will you be my Valentine?
+                Will you be hakem's Valentine?
               </h1>
               
               <div className="relative w-full aspect-video max-w-md mb-6 md:mb-8 rounded-xl overflow-hidden shadow-xl">
@@ -106,7 +106,7 @@ function App() {
             <div className="text-center">
               <Heart className="w-24 h-24 md:w-32 md:h-32 text-red-500 mx-auto mb-6 md:mb-8 animate-bounce" />
               <h1 className="text-3xl md:text-5xl font-bold text-gray-800 mb-4 md:mb-6">
-                Yay! I'm so happy! ❤️
+                You made me the happiest person in the world! ❤️
               </h1>
               <p className="text-lg md:text-xl text-gray-600 mb-6">
                 I promise to make this Valentine's Day special!
