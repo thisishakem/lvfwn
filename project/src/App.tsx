@@ -74,7 +74,7 @@ function App() {
                 <img
                   src=""
                   alt="Red roses"
-                  className="w-full h-full object-cover"
+                  className=""
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-pink-500/20 to-transparent"></div>
               </div>
