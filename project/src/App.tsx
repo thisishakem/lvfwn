@@ -70,14 +70,7 @@ function App() {
                 Will you be hakem's Valentine?
               </h1>
               
-              <div className="relative w-full aspect-video max-w-md mb-6 md:mb-8 rounded-xl overflow-hidden shadow-xl">
-                <img
-                  src=""
-                  alt="Red roses"
-                  className=""
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-pink-500/20 to-transparent"></div>
-              </div>
+
 
               <div className="flex gap-4 items-center justify-center mt-4 md:mt-8">
                 <button
