@@ -67,7 +67,7 @@ function App() {
             <>
               <Heart className="w-16 h-16 md:w-20 md:h-20 text-red-500 animate-pulse mb-4 md:mb-8" />
               <h1 className="text-3xl md:text-5xl font-bold text-gray-800 text-center mb-4 md:mb-6">
-                Will you be hakem's Valentine?
+                Will you be my Valentine?
               </h1>
               
 
